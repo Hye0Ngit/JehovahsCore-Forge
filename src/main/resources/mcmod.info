@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jehovahscore",
+  "name": "Jehovah's Core",
+  "description": "Math&Log library for Minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Hye0Ngit"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
